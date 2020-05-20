@@ -1,0 +1,15 @@
+{
+  "name": "maler",
+  "version": "1.0.0",
+  "description": "This provides an unsubscribe feature for a mailing list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Fornof",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.12.0",
+    "sqlite3": "^4.2.0"
+  }
+}

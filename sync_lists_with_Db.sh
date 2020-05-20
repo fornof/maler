@@ -1,0 +1,1 @@
+scp <user@ip of server>:/<place where emails.db is> .
